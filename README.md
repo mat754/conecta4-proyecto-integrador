@@ -129,7 +129,3 @@ Durante el desarrollo se presentaron conflictos, casi todos relacionados con el 
 **Necesidades.** Que el código fuera fiel al diseño aprobado, que los dos módulos usaran exactamente el mismo formato de archivo y que la estructura de carpetas coincidiera con la solicitada.
 
 **Petición.** Reescribir el código tomando como única referencia el documento de la Fase 2 y la estructura del profesor, y acordar una regla para el resto del proyecto: cualquier cambio de formato del CSV o de algoritmo se verifica primero contra la Fase 2 y se avisa a quienes trabajan en el otro módulo. **Resultado:** el código se reescribió con el formato de seis columnas, el ordenamiento por burbuja y `historial.csv` dentro de `python_juego/`. Se probó con el ejemplo de la Figura 8 (gana el jugador 1 con 11 jugadas) y con un historial de ejemplo que incluía líneas dañadas, que el módulo de C++ ignoró sin detenerse.
-
-## Video explicativo
-
-
