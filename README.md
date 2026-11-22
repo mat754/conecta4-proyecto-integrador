@@ -132,4 +132,4 @@ Durante el desarrollo se presentaron conflictos, casi todos relacionados con el 
 
 ## Video explicativo
 
-[Enlace al video explicativo: pegar aquí el link]
+
